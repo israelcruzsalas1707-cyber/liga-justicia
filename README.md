@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 ## Estos cambio son nuevos
 
-ESTOS CAMBIOS LOS QUIERO SUBIR A GITHUB 
+ESTOS CAMBIOS LOS QUIERO SUBIR A GITHUB y ahora esta en minúsculas porque estoy escribiendo desde github jeje
