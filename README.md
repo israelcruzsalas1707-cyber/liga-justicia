@@ -12,3 +12,5 @@ Pueden hacer lo que quieran...
 ESTOS CAMBIOS LOS QUIERO SUBIR A GITHUB y ahora esta en minúsculas porque estoy escribiendo desde github jeje
 
 ESTOS CAMBIOS LOS QUIERO SUBIR A GITHUB y ahora desde mi repositorio local lol
+
+sera que recuerdo hacer pull request
